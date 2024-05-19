@@ -10,7 +10,7 @@ To run the backend of the project, you will need a Python code editor (preferabl
 Downloading and setting up the code is straightforward. Download the zip files and open them in the respective applications, or follow GitHub's guidelines to clone the repository.
 
 ## Project Necessity
-Our target demographic is Southern African countries, where the rate of trafficking is the highest in the world. In 2021, an estimated 7 million Africans were in modern slavery (5.2 per thousand people), with 3.8 million children in forced labor, and 72% of crimes being coordinated online. Our solution aims to reduce the number of children trafficked by providing a more secure platform. Using a low level of unsupervised machine learning, we notify parents of suspected trafficking attempts. We hope our messaging platform, if implemented, will significantly reduce online crimes and increase children's safety online.
+Our target demographic is Southern African countries, where the rate of trafficking is the highest in the world. In 2021, an estimated 7 million Africans were in modern slavery (5.2 per thousand people), with 3.8 million children in forced labor, and 72% of crimes being coordinated online. Our solution aims to reduce the number of children trafficked by providing a more secure platform. Using a low level of unsupervised machine learning, we notify parents of suspected trafficking attempts. We hope our messaging platform if implemented, will significantly reduce online crimes and increase children's safety online.
 
 ## Technical Details
 This project integrates several languages for functional use, including HTML, CSS, Java, React.js, Node.js, Apps Script, and Python. Figma was used to assist in the user-facing front-end code.
@@ -22,6 +22,12 @@ Google Sheets is used as an intermediary to connect the front-end code to the Py
 - joblib
 - ServiceAccountCredentials from oauth2client.service_account
 - gsheets
-- Client from twilio.rest
+- Client from Twilio.rest
 
 CSV files were used throughout the code to interpret data.
+
+
+## Authors 
+Rishik Chakraborty (Back-end) 
+Kavir Auluck (Front-end)
+Devansh Goel (Front-end)
