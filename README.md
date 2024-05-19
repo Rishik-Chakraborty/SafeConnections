@@ -28,6 +28,6 @@ CSV files were used throughout the code to interpret data.
 
 
 ## Authors 
-Rishik Chakraborty (Back-end) 
-Kavir Auluck (Front-end)
-Devansh Goel (Front-end)
+Rishik Chakraborty (Backend Python developer) 
+Kavir Auluck (Frontend + Backend Javascript)
+Devansh Goel (Frontend + Backend Javascript)
